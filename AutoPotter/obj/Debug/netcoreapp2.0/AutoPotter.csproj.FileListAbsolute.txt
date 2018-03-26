@@ -1,0 +1,8 @@
+E:\Projects\Other\AutoPotter\AutoPotter\bin\Debug\netcoreapp2.0\AutoPotter.deps.json
+E:\Projects\Other\AutoPotter\AutoPotter\bin\Debug\netcoreapp2.0\AutoPotter.runtimeconfig.json
+E:\Projects\Other\AutoPotter\AutoPotter\bin\Debug\netcoreapp2.0\AutoPotter.runtimeconfig.dev.json
+E:\Projects\Other\AutoPotter\AutoPotter\bin\Debug\netcoreapp2.0\AutoPotter.dll
+E:\Projects\Other\AutoPotter\AutoPotter\obj\Debug\netcoreapp2.0\AutoPotter.csprojResolveAssemblyReference.cache
+E:\Projects\Other\AutoPotter\AutoPotter\obj\Debug\netcoreapp2.0\AutoPotter.csproj.CoreCompileInputs.cache
+E:\Projects\Other\AutoPotter\AutoPotter\obj\Debug\netcoreapp2.0\AutoPotter.AssemblyInfoInputs.cache
+E:\Projects\Other\AutoPotter\AutoPotter\obj\Debug\netcoreapp2.0\AutoPotter.AssemblyInfo.cs
